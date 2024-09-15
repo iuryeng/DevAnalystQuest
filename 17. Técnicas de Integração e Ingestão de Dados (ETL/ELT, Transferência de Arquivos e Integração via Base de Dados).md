@@ -91,3 +91,5 @@ Enquanto o **ETL** foca na **extração, transformação e carga** de dados, o *
 
 ## Conclusão
 Com esse entendimento completo de ETL, você está pronto para responder a uma grande variedade de perguntas relacionadas a esse tema. Desde entender como as etapas funcionam até as diferenças entre ETL e ELT, e a aplicação prática em BI, Data Warehousing e Data Science, você pode aplicar esse conhecimento em provas e no dia a dia profissional.
+
+
